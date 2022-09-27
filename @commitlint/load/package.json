@@ -39,7 +39,7 @@
     "@commitlint/utils": "^17.0.0",
     "@types/lodash": "4.14.185",
     "conventional-changelog-atom": "^2.0.8",
-    "execa": "^5.0.0"
+    "execa": "^6.0.0"
   },
   "dependencies": {
     "@commitlint/config-validator": "^17.1.0",
